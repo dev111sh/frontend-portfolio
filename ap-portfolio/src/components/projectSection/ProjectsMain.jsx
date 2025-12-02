@@ -5,29 +5,36 @@ import { fadeIn } from "../../framerMotion/variants";
 
 const projects = [
   {
-    name: "WAEC E-study",
-    year: "Mar2024",
+    name: "E-study",
+    year: "2024",
     align: "right",
     image: "images/website-img-1.jpeg",
     link: "https://estudy.ng/"
   },
+  // {
+  //   name: "JAMB QR Code Scanner",
+  //   year: "Aug 2024",
+  //   align: "left",
+  //   image: "images/Jamb.jpg",
+  //   link: "https://play.google.com/store/apps/details?id=com.sidmach.jambqrcodescanner",
+  // },
   {
-    name: "JAMB QR Code Scanner",
-    year: "Aug 2024",
+    name: "Rufus Giwa Polytechnic",
+    year: "2025",
     align: "left",
-    image: "images/Jamb.jpg",
-    link: "https://play.google.com/store/apps/details?id=com.sidmach.jambqrcodescanner",
+    image: "images/websites-img-2.png",
+    link: "https://odfel.rugipo.org.ng/",
   },
   {
     name: "Saint Albert University",
-    year: "Jan 2025",
+    year: "2025",
     align: "right",
     image: "images/website-img-3.jpeg",
     link: "#",
   },
   {
-    name: "E-Library",
-    year: "March 2025",
+    name: "CBT Platform",
+    year: "2025",
     align: "left",
     image: "images/website-img-3.jpeg",
     link: "#",

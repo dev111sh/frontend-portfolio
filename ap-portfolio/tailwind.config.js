@@ -27,6 +27,13 @@ export default {
       grey: "#626965",
       lightGrey: "#978580",
       darkGrey: "#3f4441",
+      vanillaCustard: "E8E0B5",
+      onyx: "#120E15",
+      sunflowerGold: "#E7B32D",
+      rosyCopper: "#D14D3D",
+      lavenderGrey: "#A7ADC6",
+      pretty: "#f1e1d9",
+
     },
     extend: {
       boxShadow: {

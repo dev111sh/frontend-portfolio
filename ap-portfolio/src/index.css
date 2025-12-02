@@ -74,7 +74,7 @@ button:focus-visible {
 @tailwind utilities;
 
 body{
-  @apply bg-darkBrown;
+  @apply bg-onyx;
   overflow-x: hidden;
 }
 /* body {

@@ -4,8 +4,8 @@ const ProjectsText = () => {
         <h2 className="text-6xl text-cyan mb-10">Projects</h2>
         <p className="text-lg text-center text-white">
           I have worked on a variety of web development projects, ranging from
-          responsive websites for small businesses to full-stack applications and
-          complex front-end interfaces.
+          responsive websites for small businesses to full-stack web applications and
+          complex systems.
         </p>
       </div>
     );

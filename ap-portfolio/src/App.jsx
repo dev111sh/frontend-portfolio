@@ -1,5 +1,4 @@
 
-
 import './App.css'
 
 import NavBar from './components/NavBar'
@@ -14,7 +13,6 @@ import ExperienceMain from './components/experienceSection/ExperienceMain'
 import ProjectsMain from './components/projectSection/ProjectsMain'
 import ContactMeMain from './components/contactMeSection/ContactMeMain'
 import FooterMain from './components/footer/FooterMain'
-
 
 
 function App() {
