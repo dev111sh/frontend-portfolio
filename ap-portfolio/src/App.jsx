@@ -1,7 +1,7 @@
 
 import './App.css'
 
-import NavBar from './components/NavBar'
+import NavBar from './components/navbar/NavBar'
 import HeroMain from './components/heroSection/HeroMain'
 import HeroGradient from './components/heroSection/HeroGradient'
 import SubHeroMain from './components/subHeroSection/SubHeroMain'
