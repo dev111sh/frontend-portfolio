@@ -5,9 +5,9 @@
 import { useSelector } from "react-redux";
 
 import NavbarBtn from "./NavbarBtn";
-import NavbarLinks from "./NavBarLinks";
-import NavbarLogo from "./NavBarLogo";
-import NavbarToggler from "./NavBarToggler";
+import NavbarLinks from "./NavbarLinks";
+import NavbarLogo from "./NavbarLogo";
+import NavbarToggler from "./NavbarToggler";
 
 
 const NavBar = () => {

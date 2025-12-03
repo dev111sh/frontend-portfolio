@@ -20,7 +20,6 @@ import FooterMain  from './components/footer/FooterMain'
 
 function  App() {
 
-
   return  (
     <>
       <div> 
